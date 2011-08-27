@@ -4,6 +4,8 @@
 	<artifactId>eventpoll</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>bundle</packaging>
+	<name>osgi-event-poll</name>
+	<description>Test of long-living request with chunked updates</description>
 
 	<dependencies>
 		<dependency>
